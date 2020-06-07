@@ -1,4 +1,4 @@
-## Relaxer App
+## Breathing App
 
 A relaxing breathing app with a visual director to tell you when to breathe in, hold and breathe out
 
@@ -8,3 +8,5 @@ A relaxing breathing app with a visual director to tell you when to breathe in, 
 - Create and animate pointer (Small circle)
 - Create grow and shrink animations
 - Add JavaScript to create the breath animation effect
+
+<h3><a href="https://starchitect-breathing-app.netlify.app/">Demo</a></h3>
